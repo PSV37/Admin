@@ -1,0 +1,10 @@
+body{
+    background: white url("images/back7.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.myactor{
+    color: mediumvioletred;
+}
